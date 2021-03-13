@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dan-gn, Daniel García Núñez and I am from Mexico. I am currently studying a master's in Computer Science and Engineering.
-- 👀 I’m interested in developing algorithms for Artificial Intelligence applicaations. 
+- 👀 I’m interested in developing algorithms for Artificial Intelligence applications. 
 - 🌱 I’m currently learning about: 
   - Data engineering and machine learning algorithms. 
   - Computer Vision algorithms.
